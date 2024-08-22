@@ -1,6 +1,6 @@
 package lesson01;
 
-public class TestCase01 {
+public class Task1 {
 	public static void main(String[] args) {
 	
 }
